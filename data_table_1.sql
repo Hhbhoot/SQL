@@ -25,14 +25,14 @@ insert into CLIENT_MASTER(
     "C00001","Hitesh","Bhavnagar","TaLAJA","Bhavnagar","395008","Gujarat",150000
 )
 
-insert into CLIENT_MASTER values(
+insert into CLIENT_MASTER (
 
     clientNO,Name,ADDRESS1,ADDRESS2,city,PinCode,State,baldue
 )values(
     "C00002","Mamta Muzmudar","A-104","worli","Mumbai",400002,"Maharashtra",12000
 );
 
-insert into CLIENT_MASTER(
+insert into CLIENT_MASTER values(
 
  "C00003","Chhaya Bankar","B-104","Nariman","Mumbai",400001,"Maharashtra",14000
 
